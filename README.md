@@ -1,4 +1,21 @@
-# cluster_chef
+# ClusterChef is now [Ironfan](https://github.com/infochimps-labs/ironfan)
+
+This is a major upgrade, with dramatic improvements across the board.
+
+Please visit the [ironfan repo](https://github.com/infochimps-labs/ironfan) instead. All current work, issues and wiki pages have been migrated.
+
+We have however left the obsolete versions in place in the original repo:
+
+* The [version_2](https://github.com/infochimps/cluster_chef/tree/version_2) branch holds cluster_chef version 2 (before the new discovery system).
+* The [version_3](https://github.com/infochimps/cluster_chef/tree/version_3) branch holds cluster_chef version 3 before the rename and launch.
+
+Thanks, and sorry for the inconvenience.
+
+-- infochimps
+
+__________________________________________________________________________
+
+# ¡OBSOLETE! cluster_chef
 
 Infrastructure as code: describe and orchestrate whole clusters of cloud or virtual machines. 
 
